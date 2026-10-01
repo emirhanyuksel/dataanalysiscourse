@@ -1,0 +1,156 @@
+python3 .\main-with-coherence2.py
+
+ LDA Topics using Bag of Words
+    Topic 1: internet, service, speed, pay, customer, month, time, cable, modem, problem
+    Topic 2: service, day, come, time, phone, work, tech, internet, hour, problem
+    Topic 3: service, bill, customer, month, charge, pay, account, time, year, fee
+Coherence: 0.44591158061281094
+
+ LSA Topics using TF-IDF
+    Topic 1: service, internet, time, bill, customer, month, phone, pay, day, charge
+    Topic 2: bill, month, charge, pay, fee, contract, year, price, sign, account
+    Topic 3: speed, mbps, internet, connection, high, slow, download, test, modem, fast
+Coherence: 0.5802971779775162
+
+ LDA Topics using Bag of Words
+    Topic 1: service, internet, speed, month, customer, cable, pay, price, year, tv
+    Topic 2: service, come, day, phone, time, work, tech, cable, hour, internet
+    Topic 3: service, bill, customer, month, charge, pay, account, time, fee, credit
+    Topic 4: internet, service, time, modem, problem, work, pay, phone, customer, go
+Coherence: 0.4526305259101009
+
+ LSA Topics using TF-IDF
+    Topic 1: service, internet, time, bill, customer, month, phone, pay, day, charge
+    Topic 2: bill, month, charge, pay, fee, contract, year, price, sign, account
+    Topic 3: speed, mbps, internet, connection, high, slow, download, test, modem, fast
+    Topic 4: service, customer, bad, poor, cancel, provider, experience, representative, issue, transfer
+Coherence: 0.5431720392042996
+
+ LDA Topics using Bag of Words
+    Topic 1: service, internet, month, customer, cable, price, year, pay, channel, tv
+    Topic 2: service, come, day, phone, time, work, appointment, hour, cable, tech
+    Topic 3: service, bill, customer, month, charge, pay, time, account, credit, fee
+    Topic 4: service, internet, phone, time, customer, try, go, new, use, minute
+    Topic 5: internet, service, problem, modem, time, speed, work, tech, issue, connection
+Coherence: 0.45147145597303207
+
+ LSA Topics using TF-IDF
+    Topic 1: service, internet, time, bill, customer, month, phone, pay, day, charge
+    Topic 2: bill, month, charge, pay, fee, contract, year, price, sign, account
+    Topic 3: speed, mbps, internet, connection, high, slow, download, test, modem, fast
+    Topic 4: service, customer, bad, poor, provider, experience, cancel, issue, representative, transfer
+    Topic 5: cable, tv, service, box, channel, work, internet, come, watch, price
+Coherence: 0.5352257130859754
+
+ LDA Topics using Bag of Words
+    Topic 1: service, internet, customer, cable, channel, tv, price, offer, package, box
+    Topic 2: come, day, service, work, phone, time, tech, appointment, cable, hour
+    Topic 3: service, customer, time, account, speak, phone, issue, transfer, problem, hour
+    Topic 4: service, internet, phone, time, try, work, go, email, customer, cable
+    Topic 5: internet, service, modem, speed, problem, time, work, tech, connection, pay
+    Topic 6: bill, month, charge, service, pay, year, fee, customer, go, get
+Coherence: 0.4376492883355365
+
+ LSA Topics using TF-IDF
+    Topic 1: service, internet, time, bill, customer, month, phone, pay, day, charge
+    Topic 2: bill, month, charge, pay, fee, contract, year, price, sign, account
+    Topic 3: speed, mbps, internet, connection, high, slow, download, test, modem, fast
+    Topic 4: service, customer, bad, poor, provider, cancel, experience, representative, transfer, disconnect
+    Topic 5: cable, tv, service, box, channel, internet, come, watch, work, price
+    Topic 6: email, modem, problem, connection, year, use, access, new, fix, account
+Coherence: 0.5070149149226544
+
+ LDA Topics using Bag of Words
+    Topic 1: service, internet, cable, channel, customer, price, tv, offer, pay, package
+    Topic 2: account, email, equipment, service, time, pay, send, day, get, receive
+    Topic 3: service, customer, time, issue, phone, problem, bill, internet, transfer, bad
+    Topic 4: internet, service, time, work, cable, phone, go, get, use, try
+    Topic 5: internet, modem, speed, service, problem, tech, time, work, connection, mbps
+    Topic 6: bill, month, charge, service, pay, fee, year, customer, internet, go
+    Topic 7: service, come, day, phone, time, work, appointment, hour, number, home
+Coherence: 0.43541340710502835
+
+ LSA Topics using TF-IDF
+    Topic 1: service, internet, time, bill, customer, month, phone, pay, day, charge
+    Topic 2: bill, month, charge, pay, fee, contract, year, price, sign, account
+    Topic 3: speed, mbps, internet, connection, high, slow, download, test, modem, fast
+    Topic 4: service, customer, bad, poor, provider, cancel, experience, representative, transfer, issue
+    Topic 5: cable, service, tv, box, channel, come, work, internet, watch, bad
+    Topic 6: email, modem, problem, connection, use, year, account, access, fix, send
+    Topic 7: modem, service, charge, equipment, credit, fee, refund, tech, return, replace
+Coherence: 0.4901456161202337
+
+ LDA Topics using Bag of Words
+    Topic 1: service, channel, cable, price, customer, tv, internet, package, offer, box
+    Topic 2: day, email, come, equipment, send, service, time, get, work, tech
+    Topic 3: service, customer, time, account, problem, bad, phone, bill, address, transfer
+    Topic 4: internet, service, work, time, cable, phone, use, pay, customer, go
+    Topic 5: internet, modem, speed, service, problem, time, tech, mbps, connection, work
+    Topic 6: bill, month, charge, pay, service, fee, customer, year, internet, go
+    Topic 7: service, phone, day, time, come, number, appointment, speak, ask, pm
+    Topic 8: service, internet, issue, time, credit, month, pay, cable, home, receive
+Coherence: 0.42186337363800896
+
+ LSA Topics using TF-IDF
+    Topic 1: service, internet, time, bill, customer, month, phone, pay, day, charge
+    Topic 2: bill, month, charge, pay, fee, contract, year, price, sign, account
+    Topic 3: speed, mbps, internet, connection, high, slow, download, test, modem, fast
+    Topic 4: service, customer, bad, poor, provider, experience, cancel, representative, issue, transfer
+    Topic 5: cable, tv, service, box, channel, come, internet, work, watch, year
+    Topic 6: email, modem, problem, connection, use, year, access, account, send, fix
+    Topic 7: modem, service, charge, bill, equipment, credit, tech, customer, replace, refund
+    Topic 8: modem, contract, year, price, mbps, buy, number, new, sign, phone
+Coherence: 0.4814486683492647
+
+ LDA Topics using Bag of Words
+    Topic 1: service, internet, channel, cable, customer, price, tv, pay, package, offer
+    Topic 2: email, account, equipment, time, day, send, get, service, go, pay
+    Topic 3: service, customer, time, account, issue, phone, bad, problem, bill, transfer
+    Topic 4: internet, service, time, work, cable, phone, day, go, come, line
+    Topic 5: internet, modem, speed, problem, service, tech, time, work, connection, mbps
+    Topic 6: bill, month, charge, service, pay, fee, customer, year, go, internet
+    Topic 7: service, phone, come, day, time, appointment, number, speak, ask, supervisor
+    Topic 8: service, internet, box, work, month, issue, pay, time, cable, home
+    Topic 9: internet, usage, datum, gb, service, customer, cap, data, know, xfinity
+Coherence: 0.4409261602237147
+
+ LSA Topics using TF-IDF
+    Topic 1: service, internet, time, bill, customer, month, phone, pay, day, charge
+    Topic 2: bill, month, charge, pay, fee, contract, year, price, sign, account
+    Topic 3: speed, mbps, internet, connection, high, slow, download, test, modem, fast
+    Topic 4: service, customer, bad, poor, provider, cancel, experience, representative, transfer, horrible
+    Topic 5: cable, tv, service, box, channel, come, internet, work, watch, year
+    Topic 6: email, modem, problem, connection, use, year, access, account, new, support
+    Topic 7: modem, charge, service, credit, fee, refund, replace, equipment, come, connection
+    Topic 8: modem, contract, year, number, mbps, phone, price, buy, new, sign
+    Topic 9: box, cable, channel, mbps, account, new, tv, equipment, charge, email
+Coherence: 0.4764391499867503
+
+ LDA Topics using Bag of Words
+    Topic 1: service, internet, customer, channel, cable, price, tv, offer, package, pay
+    Topic 2: email, time, get, day, send, account, go, work, tech, problem
+    Topic 3: service, customer, time, account, phone, bill, problem, address, transfer, bad
+    Topic 4: internet, service, work, time, cable, day, phone, go, pay, come
+    Topic 5: modem, internet, speed, problem, service, tech, time, work, connection, mbps
+    Topic 6: bill, month, charge, service, pay, fee, year, customer, go, internet
+    Topic 7: service, phone, come, day, time, appointment, number, speak, ask, pm
+    Topic 8: service, credit, issue, time, internet, receive, month, pay, home, day
+    Topic 9: usage, internet, datum, gb, cap, data, xfinity, issue, service, program
+    Topic 10: box, equipment, return, charge, send, service, bill, new, cable, receive
+Coherence: 0.4444642036901244
+
+ LSA Topics using TF-IDF
+    Topic 1: service, internet, time, bill, customer, month, phone, pay, day, charge
+    Topic 2: bill, month, charge, pay, fee, contract, year, price, sign, account
+    Topic 3: speed, mbps, internet, connection, high, slow, download, test, modem, fast
+    Topic 4: service, customer, bad, poor, provider, experience, cancel, representative, transfer, horrible
+    Topic 5: cable, tv, service, box, channel, internet, come, work, watch, price
+    Topic 6: email, modem, problem, connection, use, year, account, access, new, fix
+    Topic 7: modem, charge, service, fee, equipment, credit, tech, replace, connection, refund
+    Topic 8: modem, number, new, phone, contract, year, mbps, price, rep, buy
+    Topic 9: box, channel, cable, account, tv, mbps, equipment, watch, new, payment
+    Topic 10: email, tech, customer, fee, charge, contract, appointment, problem, send, service
+Coherence: 0.46683361642161963
+Best coherence for LDA/BOW is 0.4526305259101009 at n = 4
+Best coherence for LSA/TF-IDF is 0.5802971779775162 at n = 3
+Graph saved as 'comparison.png'
